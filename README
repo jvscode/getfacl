@@ -1,0 +1,9 @@
+
+getfacl is a command line tool to get file access control lists on Mac OS X.
+
+For further usage & license information please see the source code file getfacl.c.
+
+On the command line use the -h flag to get a quick overview of available command line options:
+
+getfacl -h
+
